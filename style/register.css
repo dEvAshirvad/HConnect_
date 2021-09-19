@@ -1,0 +1,92 @@
+h1 {
+    position: absolute;
+    width: 1140px;
+    top: 36%;
+    left: 60%;
+    transform: translate(-50%,50%);
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+.arr{
+    animation: down 1s ease-in-out infinite;
+    margin-left: 9px;
+}
+@keyframes down{
+    0%,100%{
+        transform: translate(0, 0);
+    }
+    50%{
+        transform: translate(10px, 0px);
+    }
+}
+
+form {
+    /* background-color: #fff; */
+    margin-top: 3.5em;
+    margin-left: 50em;
+    margin-right: 20em;
+    padding: 30px;
+    width: 28%;
+    border: 2px solid black;
+    /* border-radius: 8px; */
+    box-shadow: 5px 5px 8px 6px #34495E;
+    /*#2C3E50 ; */
+    text-align: center;
+}
+.google{
+    /* text-align: center; */
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.btn-google{
+    background-color: white;
+   border: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /* font-weight: 700; */
+    background-color: black;
+    color: white;
+    font-weight: 700px;
+}
+.btn{
+    margin-top: 30px;
+    border: 2px solid black;
+    padding-left: 98px;
+    padding-right: 98px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 0;
+    background-color: black;
+    color: white;
+    font-weight: 700px;
+    
+}
+.btn:hover{
+    color: white;
+}
+.btn-opt{
+    margin-top: 30px;
+    margin-bottom: 20px;
+   
+}
+.btn-pass{
+    border: 0px solid transparent;
+    background-color: white;
+    font-size: 14px;
+    font-weight: 600;
+}
+.mb-1, .mb-3{
+    font-weight: 480;
+}
+input{
+    display: block;
+    border: 2px solid black !important;
+    border-radius: 0 !important;
+    width: 250px!important;
+    margin: 0 auto;
+}
+label{
+   margin-right: 183px;
+}

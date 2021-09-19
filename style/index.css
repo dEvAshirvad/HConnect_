@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Playfair+Display:wght@700&display=swap');
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif; */
+
+
+* ,*::after, *::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.flexy {
+    display: flex;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    background: #ede7f6;
+
+}
+
+h1 {
+    font-size: 4.76rem;
+    font-family:'Playfair Display', serif;
+    text-align: center;
+    line-height: 100%;
+}
+
+h2 {
+    font-size: 2.438rem;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.section {
+    min-height: 100vh;
+    
+}
+
+.section .container {
+    flex-direction: column;
+}
+
+nav {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 1.125rem;
+}
+
+.nav-menus {
+    align-items: center;
+    gap: 2.188rem;
+}
+
+.nav-cta {
+    align-items: center;
+    background-color: #FF9A3C;
+    padding: 0 2.5rem;
+}
+
+.nav-cta a {
+    color: white;
+}
+
+header {
+    margin: 4.813rem 0;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.ctas {
+    margin: 0 auto;
+    gap: 6.25rem;
+    margin-top: 4.375rem;
+}
+
+.ctas-kid {
+    padding: 1.063rem 2.625rem;
+}
+
+.prime-cta {
+    background-color: #FF9A3C;
+    color: white;
+}
+
+.prime-cta a {
+    margin: auto 0;
+}
+
+.sec-cta {
+    border: 0.188rem solid black;
+}
+
+.guide {
+    margin: 0 auto;
+    margin-top: 8.313rem;
+    gap: 14rem;
+
+}
+
+.crd {
+    flex-direction: column;
+    gap: 2.688rem;
+}
+
+.crd h3 {
+    text-align: center;
+}
+
+.icon {
+    justify-content: center;
+
+}
+
+.block {
+    margin: 14.438rem 0;
+    min-height: 27.438rem;
+    margin-right: 8.75rem;
+    justify-content: space-between;
+}
+
+.block__detail {
+    flex-direction: column;
+    gap: 3.375rem;
+}
+
+.block > img {
+    width: 40.269rem;
+}
+
+.blk-kid {
+    max-width: 177px;
+    max-height: 56px;
+    padding: 17px 36px;
+}
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+footer{
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding:50px 50px;
+    background: #111;
+    display: flex;
+    /* justify-content: space-around; */
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    color: white;
+    padding-bottom: 0;
+}
+.top{
+    /* border: 2px solid red; */
+    padding: 13px 23px;
+    margin-bottom: 13px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.col-1{
+    /* border: 2px solid green; */
+    padding: 13px 12px;
+    width: 50%;
+}
+.col-2{
+    /* border: 2px solid rgb(77, 100, 77); */
+    padding: 12px 12px;
+    width: 50%;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.hackathon{
+    /* border: 2px solid gray; */
+    padding: 12px 22px;
+    margin-bottom: 22px;
+}
+.hackathon li {
+    list-style: none;
+    padding: 0px 13px;
+    margin-top: 6px;
+}
+.hackathon li a{
+    text-decoration: none;
+    color: white;
+}
+.social{
+    /* border: 2px solid gray; */
+    padding: 12px 22px;
+    color: white;
+}
+
+.social-1 {
+    display: flex;
+    padding: 12px 13px;
+    justify-content: space-around;
+    text-decoration: none;
+    
+}
+
+.social-1 a  {
+    color: white;
+}
+
+.social-1:hover{
+    cursor: pointer;
+}
+.social-1 a:hover{
+    color: #FF9A3C;
+    transition: all 0.5s ease;
+
+}
+
+input{
+    background: black;
+    padding: 10px 13px;
+    margin-top: 15px;
+    width: 215px;
+    color: white;
+        
+}
+input::placeholder{
+    color: white;
+}
+
+button{
+    border-radius: 4px;
+    padding:10px 10px;
+}
+button:hover{
+    box-shadow: 0px 0px 5px 0px white;
+    transition: all 0.5s ease;
+}
+.subscribe{
+    /* border: 2px solid green; */
+    padding: 12px 22px;
+      
+}
+
+.end{
+    line-height: 28px;
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+    font-size: 23px;
+    /* border: 2px solid green; */
+    justify-content: space-evenly;
+
+}
+.end a{
+    text-decoration: none;
+    color: white;
+}
+footer{
+    /* margin-top: -50px; */
+    text-align: center;
+    justify-content: space-evenly;
+    padding-bottom: 15px;
+}
+
