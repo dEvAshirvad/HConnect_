@@ -13,7 +13,7 @@ Morever, there is a common issue of team formation faced by the hackers that we 
 
 --> AMIT THAKUR-  [LinkedIn](https://www.linkedin.com/in/amit-thakur-a2321b154).
 
---> RAHUL JYOTI MISHRA- [GITHUB](#).
+--> RAHUL JYOTI MISHRA- [Linked In](https://www.linkedin.com/in/rahulmishraok/).
 
 --> ASHIRVAD SATAPATHY- [LinkedIn](https://www.linkedin.com/in/ashirvad-satapathy-2291961b7/).
 
