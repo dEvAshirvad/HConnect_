@@ -4,7 +4,7 @@ Since this Covid era has shifted the hackathons to an online mode, organisers ar
 
 Thus, to help our organisers build a better online experience, we have come up with our website HCONNECT that will help our hackers enhance as well as grow individually and as a team. 
 
-Morever, there is a common issue of team formation faced by the hackers that we have tried to solve through our website. With the help of our website, we will be able to enhance netwirking in the online hackathon by providing them with a good user interface.
+Morever, there is a common issue of team formation faced by the hackers that we have tried to solve through our website. With the help of our website, we will be able to enhance networking in the online hackathon by providing them with a good user interface.
 
 
 ## Contributors
