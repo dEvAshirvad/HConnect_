@@ -1,19 +1,19 @@
 ## OVERVIEW 
 
-In this covid era hackathons are shifted to online.
-Organizers are putting more efforts than before for enhancing the engagement of participants during the event.
+Since this Covid era has shifted the hackathons to an online mode, organisers are getting their best for enhancing the engagement of the participants as well as providing them with the same amazing experience that they had offline.
 
-So for this we have a solution in which we help organizers by giving a better experience to participants in networking with other teams and their members
+Thus, to help our organisers build a better online experience, we have come up with our website HCONNECT that will help our hackers enhance as well as grow individually and as a team. 
 
-Basically the theme of our project is to enhance networking in hackathons with the help of good user interface.
+Morever, there is a common issue of team formation faced by the hackers that we have tried to solve through our website. With the help of our website, we will be able to enhance netwirking in the online hackathon by providing them with a good user interface.
+
 
 ## Contributors
 
---> MEETABHASINI PARIDA- LEADER [MEETABHASINI PARIDA](https://duckduckgo.com).
+--> MEETABHASINI PARIDA- [LinkedIn](https://www.linkedin.com/in/meetabhashini-parida-730597212/).
 
---> AMIT THAKUR-  [Linked In](https://www.linkedin.com/in/amit-thakur-a2321b154).
+--> AMIT THAKUR-  [LinkedIn](https://www.linkedin.com/in/amit-thakur-a2321b154).
 
---> RAHUL JYOTI MISHRA- [LINKED IN](https://www.linkedin.com/in/rahulmishraok/).
+--> RAHUL JYOTI MISHRA- [GITHUB](#).
 
---> ASHIRVAD SATAPATHY- [Linked In](https://www.linkedin.com/in/ashirvad-satapathy-2291961b7/).
+--> ASHIRVAD SATAPATHY- [LinkedIn](https://www.linkedin.com/in/ashirvad-satapathy-2291961b7/).
 
