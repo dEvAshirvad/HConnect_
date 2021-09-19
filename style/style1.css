@@ -60,7 +60,7 @@ nav ul li a{
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     border: 2px solid #FF9A3C;
 }
 .fill img {
