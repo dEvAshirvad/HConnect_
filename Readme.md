@@ -13,7 +13,7 @@ Basically the theme of our project is to enhance networking in hackathons with t
 
 --> AMIT THAKUR-  [Linked In](https://www.linkedin.com/in/amit-thakur-a2321b154).
 
---> RAHUL JYOTI MISHRA- [GITHUB](#).
+--> RAHUL JYOTI MISHRA- [LINKED IN](https://www.linkedin.com/in/rahulmishraok/).
 
 --> ASHIRVAD SATAPATHY- [Linked In](https://www.linkedin.com/in/ashirvad-satapathy-2291961b7/).
 
