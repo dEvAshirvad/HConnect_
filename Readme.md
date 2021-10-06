@@ -5,7 +5,7 @@ Organizers are putting more efforts than before for enhancing the engagement of 
 
 So for this we have a solution in which we help organizers by giving a better experience to participants in networking with other teams and their members
 
-Basically the theme of our project is to enhance networkinnn in hackathons with the help of good user interface.
+Basically the theme of our project is to enhance networking in hackathons with the help of good user interface.
 
 ## Contributors
 
