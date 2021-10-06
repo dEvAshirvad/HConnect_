@@ -1,7 +1,7 @@
 ## OVERVIEW 
 
 In this covid era hackathons are shifted to online.
-Organizers are putting more efforts than before for enhancing the engagement of participants during the event.
+Organizers are putting more efforts than before for enhancing the engagement of participants during the eventssss.
 
 So for this we have a solution in which we help organizers by giving a better experience to participants in networking with other teams and their members
 
