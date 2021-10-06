@@ -6,6 +6,7 @@ Thus, to help our organisers build a better online experience, we have come up w
 
 Morever, there is a common issue of team formation faced by the hackers that we have tried to solve through our website. With the help of our website, we will be able to enhance networking in the online hackathon by providing them with a good user interface.
 
+Thank you.
 
 ## Contributors
 
